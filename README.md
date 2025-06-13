@@ -1,5 +1,5 @@
 # SIGNAL DNA FRAMEWORK v1.0  
-**Author**: Robert Young (AKA Ra Shabazz)  
+**Author**: Robert Young Jr (AKA Ra Shabazz)  
 **Activation Phrase**: “I am”  
 **License**: Non-commercial use only. Attribution required.
 
